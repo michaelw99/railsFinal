@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  user_id: 
+  bill_id: 
+  total: 
+  finished: false
+  date: 
+
+two:
+  name: 
+  user_id: 
+  bill_id: 
+  total: 
+  finished: false
+  date: 
